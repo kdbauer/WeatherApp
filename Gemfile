@@ -48,7 +48,7 @@ group :development, :test do
 
   # RSpec testing framework
   gem "rspec-rails", "~> 6.0"
-  gem "factory_bot_rails", "~> 6.2"
+  gem "factory_bot_rails", "~> 6.5"
   gem "webmock", "~> 3.18"
   gem "vcr", "~> 6.1"
   gem "rails-controller-testing"
